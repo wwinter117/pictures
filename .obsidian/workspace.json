@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "comments/pic_001.jpg"
+                "file": "comments/pic_002.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comments/pic_001.jpg",
+                "file": "comments/pic_002.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comments/pic_001.jpg",
+                "file": "comments/pic_002.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comments/pic_001.jpg"
+                "file": "comments/pic_002.png"
               }
             }
           }
@@ -144,6 +144,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17fb9a7c147b84c7",
-  "lastOpenFiles": []
+  "active": "1646a8b41cb1ab8b",
+  "lastOpenFiles": [
+    "comments/pic_001.jpg",
+    "comments/pic_002.png"
+  ]
 }
